@@ -13,3 +13,9 @@ We will support only one type of condition:
 
 ### Additional monitor settings
 * Notification message: string
+
+# Installation
+1. Clone the repository
+2. Open chrome and go to `chrome://extensions/`
+3. Enable developer mode
+4. Click on `Load unpacked` and select the `src` folder in the repository
